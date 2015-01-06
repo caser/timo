@@ -5,7 +5,7 @@ title: This Is My Office.
 description: "Find awesome, non-traditional places to work around the world."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
-url: "http://thisismyoffice.io"
+url: "http://thisismyoffice.co"
 
 # Build settings
 markdown: kramdown
