@@ -5,8 +5,8 @@
     <description>Find awesome, non-traditional places to work around the world.</description>
     <link>http://thisismyoffice.co/</link>
     <atom:link href="http://thisismyoffice.co/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 06 Jan 2015 22:57:40 +0900</pubDate>
-    <lastBuildDate>Tue, 06 Jan 2015 22:57:40 +0900</lastBuildDate>
+    <pubDate>Thu, 08 Jan 2015 00:00:48 +0900</pubDate>
+    <lastBuildDate>Thu, 08 Jan 2015 00:00:48 +0900</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -19,23 +19,6 @@
         
         
         <category>question</category>
-        
-      </item>
-    
-      <item>
-        <title>Project: Vang Vieng, Laos</title>
-        <description>&lt;h4 id=&quot;vang-vieng-laos&quot;&gt;Vang Vieng, Laos&lt;/h4&gt;
-&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
-
-&lt;h4 id=&quot;our-proposal&quot;&gt;Our Proposal&lt;/h4&gt;
-&lt;p&gt;It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 26 Apr 2014 01:54:46 +0900</pubDate>
-        <link>http://thisismyoffice.co/project/vang-vieng-laos</link>
-        <guid isPermaLink="true">http://thisismyoffice.co/project/vang-vieng-laos</guid>
-        
-        
-        <category>project</category>
         
       </item>
     
@@ -74,12 +57,9 @@ It was popularised in the 1960s with the release of Letraset sheets containing L
       </item>
     
       <item>
-        <title>Project: The Surf Office, Costa Rica</title>
-        <description>&lt;h4 id=&quot;the-surf-office-santa-cruz&quot;&gt;The Surf Office, Santa Cruz&lt;/h4&gt;
+        <title>Project: The Surf Office</title>
+        <description>&lt;h4 id=&quot;bangkok-thailand&quot;&gt;Bangkok, Thailand&lt;/h4&gt;
 &lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
-
-&lt;h4 id=&quot;our-proposal&quot;&gt;Our Proposal&lt;/h4&gt;
-&lt;p&gt;It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
 </description>
         <pubDate>Sat, 26 Apr 2014 01:54:46 +0900</pubDate>
         <link>http://thisismyoffice.co/project/surf-office-santa-cruz</link>
@@ -101,23 +81,6 @@ It was popularised in the 1960s with the release of Letraset sheets containing L
         <pubDate>Sat, 26 Apr 2014 01:54:46 +0900</pubDate>
         <link>http://thisismyoffice.co/project/sueno-carrillo</link>
         <guid isPermaLink="true">http://thisismyoffice.co/project/sueno-carrillo</guid>
-        
-        
-        <category>project</category>
-        
-      </item>
-    
-      <item>
-        <title>Project: Sihanoukville, Cambodia</title>
-        <description>&lt;h4 id=&quot;sihanoukville-cambodia&quot;&gt;Sihanoukville, Cambodia&lt;/h4&gt;
-&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
-
-&lt;h4 id=&quot;our-proposal&quot;&gt;Our Proposal&lt;/h4&gt;
-&lt;p&gt;It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 26 Apr 2014 01:54:46 +0900</pubDate>
-        <link>http://thisismyoffice.co/project/sihanoukville-cambodia</link>
-        <guid isPermaLink="true">http://thisismyoffice.co/project/sihanoukville-cambodia</guid>
         
         
         <category>project</category>
@@ -210,16 +173,50 @@ It was popularised in the 1960s with the release of Letraset sheets containing L
       </item>
     
       <item>
-        <title>Project: Langkawi, Malaysia</title>
-        <description>&lt;h4 id=&quot;langkawi-malaysia&quot;&gt;Langkawi, Malaysia&lt;/h4&gt;
+        <title>Project: Hanoi, Vietnam</title>
+        <description>&lt;h4 id=&quot;hanoi-vietnam&quot;&gt;Hanoi, Vietnam&lt;/h4&gt;
 &lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
 
 &lt;h4 id=&quot;our-proposal&quot;&gt;Our Proposal&lt;/h4&gt;
 &lt;p&gt;It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
 </description>
         <pubDate>Sat, 26 Apr 2014 01:54:46 +0900</pubDate>
-        <link>http://thisismyoffice.co/project/langkawi-malaysia</link>
-        <guid isPermaLink="true">http://thisismyoffice.co/project/langkawi-malaysia</guid>
+        <link>http://thisismyoffice.co/project/hanoi-vietnam</link>
+        <guid isPermaLink="true">http://thisismyoffice.co/project/hanoi-vietnam</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Project: Tippy&#39;s - Eleuthera, Bahamas</title>
+        <description>&lt;h4 id=&quot;playa-carrillo-costa-rica&quot;&gt;Playa Carrillo, Costa Rica&lt;/h4&gt;
+&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
+
+&lt;h4 id=&quot;our-proposal&quot;&gt;Our Proposal&lt;/h4&gt;
+&lt;p&gt;It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 26 Apr 2014 01:54:46 +0900</pubDate>
+        <link>http://thisismyoffice.co/project/eleuthera-bahamas</link>
+        <guid isPermaLink="true">http://thisismyoffice.co/project/eleuthera-bahamas</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Project: Bangkok, Thailand</title>
+        <description>&lt;h4 id=&quot;bangkok-thailand&quot;&gt;Bangkok, Thailand&lt;/h4&gt;
+&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
+
+&lt;h4 id=&quot;our-proposal&quot;&gt;Our Proposal&lt;/h4&gt;
+&lt;p&gt;It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 26 Apr 2014 01:54:46 +0900</pubDate>
+        <link>http://thisismyoffice.co/project/bangkok-thailand</link>
+        <guid isPermaLink="true">http://thisismyoffice.co/project/bangkok-thailand</guid>
         
         
         <category>project</category>
